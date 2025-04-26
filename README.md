@@ -1,4 +1,4 @@
-<b><h1>World Population 2025 using Machine Learning</h1></b>
+<b><h1>World Population 2024 using Machine Learning</h1></b>
 
 <u><h3>Techniques Used:</h3></u>
 <ul>
