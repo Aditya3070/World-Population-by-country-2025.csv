@@ -1,46 +1,42 @@
-# World Population 2025 using Machine Learning
-Techniques Used:
-Data Cleaning
+<b><h1>World Population 2025 using Machine Learning</h1></b>
 
-Data Visualization
+<u><h3>Techniques Used:</h3></u>
+<ul>
+  <li>Data Cleaning</li>
+  <li>Data Visualization</li>
+  <li>Handling Missing Values</li>
+  <li>Pre-Processing</li>
+  <li>Model Training</li>
+</ul>
 
-Handling Missing Values
+<u><h3>Machine Learning Models:</h3></u>
+<ul>
+  <li>Linear Regression</li>
+  <li>Support Vector Regressor (SVR)</li>
+  <li>Random Forest Regressor</li>
+  <li>Decision Tree Regressor</li>
+</ul>
 
-Pre-Processing
+<u><h3>Model Evaluation Methods:</h3></u>
+<ul>
+  <li>Mean Squared Error (MSE)</li>
+  <li>R² Score</li>
+</ul>
 
-Model Training
+<b><h3>Packages and Tools Required:</h3></b>
+<ul>
+  <li>Pandas</li>
+  <li>Matplotlib</li>
+  <li>Seaborn</li>
+  <li>Scikit-Learn</li>
+  <li>Jupyter Notebook</li>
+</ul>
 
-Machine Learning Models:
-Linear Regression
-
-Support Vector Regressor (SVR)
-
-Random Forest Regressor
-
-Decision Tree Regressor
-
-Model Evaluation Methods:
-Mean Squared Error (MSE)
-
-R² Score
-
-Packages and Tools Required:
-Pandas
-
-Matplotlib
-
-Seaborn
-
-Scikit-Learn
-
-Jupyter Notebook
-
-Packages Installation:
-bash
-Copy
-Edit
-pip install numpy
-pip install pandas
-pip install seaborn
-pip install scikit-learn
-pip install matplotlib
+<b><h2>Packages Installation:</h2></b>
+<ul>
+  <li>pip install numpy</li>
+  <li>pip install pandas</li>
+  <li>pip install seaborn</li>
+  <li>pip install scikit-learn</li>
+  <li>pip install matplotlib</li>
+</ul>
